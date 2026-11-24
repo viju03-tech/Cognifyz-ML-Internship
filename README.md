@@ -9,6 +9,9 @@ Machine learning tasks completed during my internship at **Cognifyz Technologies
 
 ## 📈 Results
 
+![Results](assets/results.png)
+
+
 ### Task 1 — Restaurant Ratings Prediction (regression)
 
 | Model | RMSE | R² |
